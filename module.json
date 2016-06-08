@@ -1,0 +1,11 @@
+{
+  "name": "microbit-led-service",
+  "version": "1.0.0",
+  "description": "Using the micro:bit runtime to show how to enable the bluetooth LED service",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
